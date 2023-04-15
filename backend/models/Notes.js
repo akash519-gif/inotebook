@@ -10,7 +10,7 @@ const NotesSchema = new Schema({
         type: String,
         required: true
     },
-    descritption:{
+    description:{
         type: String,
         required: true
     },
