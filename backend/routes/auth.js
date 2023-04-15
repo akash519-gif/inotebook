@@ -97,7 +97,7 @@ router.post('/login', [
 
 
 
-
+ 
 })
 
 //Route 3: Get Loggedin User details using: POST "/api/auth/getuser". Login required
